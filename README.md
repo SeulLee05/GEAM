@@ -2,7 +2,7 @@
 
 This is the official code repository for the paper [Drug Discovery with Dynamic Goal-aware Fragments](https://arxiv.org/abs/2310.00841) (ICML 2024).<br>
 In our paper, we introduce:
-+ *Fragment-wise Graph Information Bottleneck (FGIB)*, a novel goal-aware fragment extration method using the GIB theory to construct a fragment vocabulary for target chemical properties.
++ *Fragment-wise Graph Information Bottleneck (FGIB)*, a goal-aware fragment extration method using the graph information bottleneck (GIB) theory to construct a fragment vocabulary for target chemical properties.
     <p align="center">
         <img width="520" src="assets/fgib.png"/>
     </p>

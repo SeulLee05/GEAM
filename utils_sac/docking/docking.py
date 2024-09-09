@@ -1,3 +1,5 @@
+# Code adapted from https://github.com/SeulLee05/MOOD/blob/main/scorer/docking.py
+
 import sys
 import os
 from shutil import rmtree
